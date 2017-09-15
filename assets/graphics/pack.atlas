@@ -1,0 +1,1413 @@
+
+pack.png
+size: 2006,2012
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ad-icon
+  rotate: false
+  xy: 390, 1626
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ad-icon.png
+  rotate: false
+  xy: 68, 1498
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+anim-bg
+  rotate: false
+  xy: 2, 1500
+  size: 128, 512
+  orig: 128, 512
+  offset: 0, 0
+  index: -1
+anim-bg.png
+  rotate: false
+  xy: 68, 1496
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+anim-particle
+  rotate: false
+  xy: 1938, 1948
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+anim-particle.png
+  rotate: false
+  xy: 132, 194
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ball-particle
+  rotate: false
+  xy: 650, 1626
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ball-particle.png
+  rotate: false
+  xy: 392, 454
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+blessing-icon
+  rotate: false
+  xy: 910, 1626
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+blessing-icon.png
+  rotate: false
+  xy: 652, 714
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+brew-icon
+  rotate: false
+  xy: 1170, 1626
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+brew-icon.png
+  rotate: false
+  xy: 782, 844
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 1300, 1626
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bubble.png
+  rotate: false
+  xy: 1938, 1946
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cart-icon
+  rotate: false
+  xy: 1430, 1626
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cart-icon.png
+  rotate: false
+  xy: 2004, 2012
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cat-icon
+  rotate: false
+  xy: 1680, 1754
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cat-icon.png
+  rotate: false
+  xy: 1560, 1688
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+catnip-icon
+  rotate: false
+  xy: 1810, 1754
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+catnip-icon.png
+  rotate: false
+  xy: 1562, 1688
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+claws-icon
+  rotate: false
+  xy: 392, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+claws-icon.png
+  rotate: false
+  xy: 1626, 1752
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+clock-icon
+  rotate: false
+  xy: 522, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+clock-icon.png
+  rotate: false
+  xy: 1628, 1752
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+couch-icon
+  rotate: false
+  xy: 912, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+couch-icon.png
+  rotate: false
+  xy: 912, 1038
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cryo-icon
+  rotate: false
+  xy: 1042, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cryo-icon.png
+  rotate: false
+  xy: 1108, 1234
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+dna-icon
+  rotate: false
+  xy: 1172, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dna-icon.png
+  rotate: false
+  xy: 1172, 1298
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+door-enter-icon
+  rotate: false
+  xy: 1302, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+door-enter-icon.png
+  rotate: false
+  xy: 1238, 1364
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+door-exit-icon
+  rotate: false
+  xy: 1432, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+door-exit-icon.png
+  rotate: false
+  xy: 68, 1346
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 68, 1348
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+empty.png
+  rotate: false
+  xy: 70, 1498
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+exercise-icon
+  rotate: false
+  xy: 2, 982
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+exercise-icon.png
+  rotate: false
+  xy: 70, 1496
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+failure-icon
+  rotate: false
+  xy: 2, 852
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+failure-icon.png
+  rotate: false
+  xy: 132, 192
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+fast-icon
+  rotate: false
+  xy: 2, 722
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fast-icon.png
+  rotate: false
+  xy: 134, 194
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+female-icon
+  rotate: false
+  xy: 2, 592
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+female-icon.png
+  rotate: false
+  xy: 262, 322
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+fish-can-icon
+  rotate: false
+  xy: 2, 462
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fish-can-icon.png
+  rotate: false
+  xy: 264, 324
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+fish-icon
+  rotate: false
+  xy: 2, 332
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fish-icon.png
+  rotate: false
+  xy: 392, 452
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+fishing-lure-icon
+  rotate: false
+  xy: 2, 202
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fishing-lure-icon.png
+  rotate: false
+  xy: 394, 454
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+food-icon
+  rotate: false
+  xy: 2, 72
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+food-icon.png
+  rotate: false
+  xy: 522, 582
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+generation-icon
+  rotate: false
+  xy: 198, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+generation-icon.png
+  rotate: false
+  xy: 652, 712
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+gift-icon
+  rotate: false
+  xy: 328, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gift-icon.png
+  rotate: false
+  xy: 654, 714
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+globe-icon
+  rotate: false
+  xy: 458, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+globe-icon.png
+  rotate: false
+  xy: 782, 842
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+gourmet-icon
+  rotate: false
+  xy: 588, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gourmet-icon.png
+  rotate: false
+  xy: 784, 844
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+hammer-icon
+  rotate: false
+  xy: 718, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hammer-icon.png
+  rotate: false
+  xy: 1938, 1944
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+hat-icon
+  rotate: false
+  xy: 848, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hat-icon.png
+  rotate: false
+  xy: 1940, 1944
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+heal-icon
+  rotate: false
+  xy: 978, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+heal-icon.png
+  rotate: false
+  xy: 1942, 1946
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+heart-icon
+  rotate: false
+  xy: 1108, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+heart-icon.png
+  rotate: false
+  xy: 2004, 2010
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+help-icon
+  rotate: false
+  xy: 1238, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+help-icon.png
+  rotate: false
+  xy: 2006, 2012
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+help-off-icon
+  rotate: false
+  xy: 1368, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+help-off-icon.png
+  rotate: false
+  xy: 1560, 1686
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+job-icon
+  rotate: false
+  xy: 132, 1236
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+job-icon.png
+  rotate: false
+  xy: 1564, 1688
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+level-badge
+  rotate: false
+  xy: 390, 1756
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+level-badge.png
+  rotate: false
+  xy: 1630, 1754
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+lightbulb-icon
+  rotate: false
+  xy: 132, 1106
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lightbulb-icon.png
+  rotate: false
+  xy: 1626, 1750
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 262, 1236
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lock.png
+  rotate: false
+  xy: 1628, 1750
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+male-icon
+  rotate: false
+  xy: 132, 976
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+male-icon.png
+  rotate: false
+  xy: 1630, 1752
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+max-stars
+  rotate: false
+  xy: 262, 1106
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mutagen-icon
+  rotate: false
+  xy: 132, 846
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mutagen-icon.png
+  rotate: false
+  xy: 4, 4
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+nap-icon
+  rotate: false
+  xy: 262, 976
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+nap-icon.png
+  rotate: false
+  xy: 68, 68
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+path-dot
+  rotate: false
+  xy: 1560, 1690
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+path-dot.png
+  rotate: false
+  xy: 914, 1038
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+plant-lab
+  rotate: false
+  xy: 262, 846
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion-base-upgrade
+  rotate: false
+  xy: 906, 1756
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+potion-base-upgrade.png
+  rotate: false
+  xy: 1042, 1166
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion-icon
+  rotate: false
+  xy: 392, 976
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion-icon.png
+  rotate: false
+  xy: 1044, 1168
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion-item-empty
+  rotate: false
+  xy: 522, 1106
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion-item-empty.png
+  rotate: false
+  xy: 1108, 1232
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion-item-full
+  rotate: false
+  xy: 652, 1236
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion-item-full.png
+  rotate: false
+  xy: 1110, 1234
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/apple
+  rotate: false
+  xy: 520, 1626
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/apple.png
+  rotate: false
+  xy: 262, 324
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/banana
+  rotate: false
+  xy: 780, 1626
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/banana.png
+  rotate: false
+  xy: 522, 584
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/boot
+  rotate: false
+  xy: 1040, 1626
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/cherry
+  rotate: false
+  xy: 132, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/cherry.png
+  rotate: false
+  xy: 1626, 1754
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/chives
+  rotate: false
+  xy: 262, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/chives.png
+  rotate: false
+  xy: 1628, 1754
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/coffee
+  rotate: false
+  xy: 782, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/coffee.png
+  rotate: false
+  xy: 68, 70
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/elderberry
+  rotate: false
+  xy: 2, 1112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/elderberry.png
+  rotate: false
+  xy: 86, 1364
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/garlic
+  rotate: false
+  xy: 68, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/garlic.png
+  rotate: false
+  xy: 524, 584
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/icecream
+  rotate: false
+  xy: 1498, 1366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/icecream.png
+  rotate: false
+  xy: 1562, 1686
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/melon
+  rotate: false
+  xy: 392, 1236
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/melon.png
+  rotate: false
+  xy: 2, 2
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/newt
+  rotate: false
+  xy: 392, 1106
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/newt.png
+  rotate: false
+  xy: 70, 70
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/peanut
+  rotate: false
+  xy: 522, 1236
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/peanut.png
+  rotate: false
+  xy: 978, 1102
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/pepper
+  rotate: false
+  xy: 132, 716
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/pepper.png
+  rotate: false
+  xy: 980, 1104
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/pumpkin
+  rotate: false
+  xy: 132, 586
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/pumpkin.png
+  rotate: false
+  xy: 1172, 1296
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/sugar
+  rotate: false
+  xy: 782, 1106
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/sugar.png
+  rotate: false
+  xy: 266, 324
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+potion/vanilla
+  rotate: false
+  xy: 392, 456
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+potion/vanilla.png
+  rotate: false
+  xy: 786, 844
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+rain
+  rotate: false
+  xy: 2, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+rain.png
+  rotate: false
+  xy: 1174, 1298
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ribbon-icon
+  rotate: false
+  xy: 262, 716
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ribbon-icon.png
+  rotate: false
+  xy: 1238, 1362
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+sack
+  rotate: false
+  xy: 1164, 1756
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+sack-icon
+  rotate: false
+  xy: 392, 846
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sack-icon.png
+  rotate: false
+  xy: 1240, 1364
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+sack.png
+  rotate: false
+  xy: 68, 1344
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+save-icon
+  rotate: false
+  xy: 522, 976
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+save-icon.png
+  rotate: false
+  xy: 70, 1346
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+search-icon
+  rotate: false
+  xy: 652, 1106
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+search-icon.png
+  rotate: false
+  xy: 86, 1362
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+settings-icon
+  rotate: false
+  xy: 782, 1236
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+settings-icon.png
+  rotate: false
+  xy: 88, 1364
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+sound-off
+  rotate: false
+  xy: 132, 456
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sound-off.png
+  rotate: false
+  xy: 72, 1498
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+sound-on
+  rotate: false
+  xy: 262, 586
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sound-on.png
+  rotate: false
+  xy: 72, 1496
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 912, 1040
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sparkle.png
+  rotate: false
+  xy: 132, 190
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 392, 716
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star.png
+  rotate: false
+  xy: 134, 192
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+story-icon
+  rotate: false
+  xy: 522, 846
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+story-icon.png
+  rotate: false
+  xy: 136, 194
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+stray-lv-upgrade2
+  rotate: false
+  xy: 1422, 1756
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+stray-lv-upgrade2.png
+  rotate: false
+  xy: 262, 320
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+success-icon
+  rotate: false
+  xy: 652, 976
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+success-icon.png
+  rotate: false
+  xy: 264, 322
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+supercat-icon
+  rotate: false
+  xy: 912, 1236
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+supercat-icon.png
+  rotate: false
+  xy: 392, 450
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+surrender-icon
+  rotate: false
+  xy: 132, 326
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+surrender-icon.png
+  rotate: false
+  xy: 394, 452
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+sword-icon
+  rotate: false
+  xy: 262, 456
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sword-icon.png
+  rotate: false
+  xy: 396, 454
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+temple-icon
+  rotate: false
+  xy: 392, 586
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+temple-icon.png
+  rotate: false
+  xy: 522, 580
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+thaw-icon
+  rotate: false
+  xy: 522, 716
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+thaw-icon.png
+  rotate: false
+  xy: 524, 582
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+tree-icon
+  rotate: false
+  xy: 652, 846
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tree-icon.png
+  rotate: false
+  xy: 526, 584
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+trophy
+  rotate: false
+  xy: 782, 976
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+trophy-bg
+  rotate: false
+  xy: 912, 1106
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+trophy-bg.png
+  rotate: false
+  xy: 652, 710
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+trophy-icon
+  rotate: false
+  xy: 1042, 1236
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+trophy-icon.png
+  rotate: false
+  xy: 654, 712
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+trophy.png
+  rotate: false
+  xy: 656, 714
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ui/button
+  rotate: false
+  xy: 132, 1756
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/button.png
+  rotate: false
+  xy: 1940, 1946
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ui/close-button
+  rotate: false
+  xy: 652, 1496
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/close-button.png
+  rotate: false
+  xy: 2, 4
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ui/counter-panel
+  rotate: false
+  xy: 132, 1626
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/counter-panel-fill
+  rotate: false
+  xy: 1680, 1884
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/counter-panel-fill.png
+  rotate: false
+  xy: 978, 1104
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ui/counter-panel.png
+  rotate: false
+  xy: 1042, 1168
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ui/panel
+  rotate: false
+  xy: 648, 1756
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/panel.png
+  rotate: false
+  xy: 912, 1036
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ui/vscroll
+  rotate: false
+  xy: 1042, 1170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ui/vscroll-back
+  rotate: false
+  xy: 2, 1242
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+ui/vscroll-back.png
+  rotate: false
+  xy: 1938, 1942
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ui/vscroll-button
+  rotate: false
+  xy: 1172, 1300
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ui/vscroll-button.png
+  rotate: false
+  xy: 1940, 1942
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ui/vscroll.png
+  rotate: false
+  xy: 1942, 1944
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+upgrade-icon
+  rotate: false
+  xy: 132, 196
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+upgrade-icon.png
+  rotate: false
+  xy: 782, 840
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+use-potion
+  rotate: false
+  xy: 262, 326
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+use-potion.png
+  rotate: false
+  xy: 784, 842
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+water-icon
+  rotate: false
+  xy: 522, 586
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+water-icon.png
+  rotate: false
+  xy: 1944, 1946
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+yarn-ball
+  rotate: false
+  xy: 652, 716
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yarn-ball.png
+  rotate: false
+  xy: 2004, 2008
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 782, 846
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+z.png
+  rotate: false
+  xy: 2006, 2010
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+cryo.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cryo_base
+  rotate: false
+  xy: 1, 101
+  size: 196, 654
+  orig: 196, 654
+  offset: 0, 0
+  index: -1
+cryo_front
+  rotate: false
+  xy: 199, 101
+  size: 196, 654
+  orig: 196, 654
+  offset: 0, 0
+  index: -1
+cryo_light_1
+  rotate: false
+  xy: 1, 1
+  size: 196, 98
+  orig: 196, 98
+  offset: 0, 0
+  index: -1
+cryo_light_2
+  rotate: false
+  xy: 397, 738
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1

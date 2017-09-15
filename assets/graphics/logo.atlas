@@ -1,0 +1,27 @@
+
+logo.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo_cat
+  rotate: false
+  xy: 1, 1
+  size: 291, 186
+  orig: 291, 186
+  offset: 0, 0
+  index: -1
+logo_cat2
+  rotate: false
+  xy: 1329, 660
+  size: 291, 186
+  orig: 291, 186
+  offset: 0, 0
+  index: -1
+logo_logo
+  rotate: false
+  xy: 1, 189
+  size: 1326, 657
+  orig: 1326, 657
+  offset: 0, 0
+  index: -1

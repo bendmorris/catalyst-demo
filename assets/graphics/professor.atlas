@@ -1,0 +1,34 @@
+
+professor.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+professor_arm
+  rotate: false
+  xy: 353, 1
+  size: 122, 68
+  orig: 122, 68
+  offset: 0, 0
+  index: -1
+professor_body
+  rotate: false
+  xy: 353, 71
+  size: 146, 184
+  orig: 146, 184
+  offset: 0, 0
+  index: -1
+professor_head
+  rotate: false
+  xy: 1, 68
+  size: 350, 187
+  orig: 350, 187
+  offset: 0, 0
+  index: -1
+professor_pointer
+  rotate: false
+  xy: 501, 118
+  size: 86, 137
+  orig: 86, 137
+  offset: 0, 0
+  index: -1

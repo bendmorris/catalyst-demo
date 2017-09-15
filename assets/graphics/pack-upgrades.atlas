@@ -1,0 +1,510 @@
+
+pack-upgrades.png
+size: 1812,1812
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bandaid
+  rotate: false
+  xy: 2, 1556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bandaid.png
+  rotate: false
+  xy: 2, 6
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+breed-upgrade
+  rotate: false
+  xy: 2, 1298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+breed-upgrade.png
+  rotate: false
+  xy: 1808, 1812
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+breed-xp-upgrade
+  rotate: false
+  xy: 260, 1556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+breed-xp-upgrade.png
+  rotate: false
+  xy: 1034, 780
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cat-bed-upgrade
+  rotate: false
+  xy: 2, 1040
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cat-bed-upgrade.png
+  rotate: false
+  xy: 1292, 1038
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cat-dish
+  rotate: false
+  xy: 260, 1298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cat-dish.png
+  rotate: false
+  xy: 1550, 1296
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cat-dish2
+  rotate: false
+  xy: 518, 1556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cat-dish2.png
+  rotate: false
+  xy: 776, 264
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cat-dish3
+  rotate: false
+  xy: 2, 782
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cat-dish3.png
+  rotate: false
+  xy: 2, 4
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cat-dish4
+  rotate: false
+  xy: 260, 1040
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cat-dish4.png
+  rotate: false
+  xy: 4, 6
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cat-xp-rate
+  rotate: false
+  xy: 518, 1298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cat-xp-rate.png
+  rotate: false
+  xy: 1808, 1810
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cat-xp-rate2
+  rotate: false
+  xy: 776, 1556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cat-xp-rate2.png
+  rotate: false
+  xy: 1810, 1812
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+catnip-plants
+  rotate: false
+  xy: 2, 524
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+catnip-plants.png
+  rotate: false
+  xy: 1034, 778
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+catnip-production
+  rotate: false
+  xy: 260, 782
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+catnip-production.png
+  rotate: false
+  xy: 1036, 780
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+catnip-production2
+  rotate: false
+  xy: 518, 1040
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+catnip-production2.png
+  rotate: false
+  xy: 1292, 1036
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+catnip-production3
+  rotate: false
+  xy: 776, 1298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+catnip-production3.png
+  rotate: false
+  xy: 1294, 1038
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+catnip-sack
+  rotate: false
+  xy: 1034, 1556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+catnip-sack.png
+  rotate: false
+  xy: 1550, 1294
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+catnip-sack2
+  rotate: false
+  xy: 2, 266
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+catnip-sack2.png
+  rotate: false
+  xy: 1552, 1296
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+catnip-sack3
+  rotate: false
+  xy: 260, 524
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+catnip-sack3.png
+  rotate: false
+  xy: 776, 262
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+catnip-sack4
+  rotate: false
+  xy: 518, 782
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+catnip-sack4.png
+  rotate: false
+  xy: 778, 264
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cauldron-upgrade
+  rotate: false
+  xy: 776, 1040
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cauldron-upgrade.png
+  rotate: false
+  xy: 2, 2
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+cryo-upgrade
+  rotate: false
+  xy: 1034, 1298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cryo-upgrade.png
+  rotate: false
+  xy: 4, 4
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+fishing-pole-upgrade
+  rotate: false
+  xy: 1292, 1556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fishing-pole-upgrade.png
+  rotate: false
+  xy: 6, 6
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+fishing-speed
+  rotate: false
+  xy: 2, 8
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fishing-speed.png
+  rotate: false
+  xy: 1808, 1808
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+gourmet-duration
+  rotate: false
+  xy: 260, 266
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+gourmet-duration.png
+  rotate: false
+  xy: 1810, 1810
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ingredient-pack
+  rotate: false
+  xy: 518, 524
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ingredient-pack.png
+  rotate: false
+  xy: 1812, 1812
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+ingredient-pack1
+  rotate: false
+  xy: 776, 782
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ingredient-pack1.png
+  rotate: false
+  xy: 1034, 776
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+initiative-upgrade
+  rotate: false
+  xy: 1034, 1040
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+initiative-upgrade.png
+  rotate: false
+  xy: 1036, 778
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+litter-size-upgrade
+  rotate: false
+  xy: 1292, 1298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+litter-size-upgrade.png
+  rotate: false
+  xy: 1038, 780
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+litterbox
+  rotate: false
+  xy: 1550, 1556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+litterbox.png
+  rotate: false
+  xy: 1292, 1034
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+max-fish-upgrade
+  rotate: false
+  xy: 260, 8
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+max-fish-upgrade.png
+  rotate: false
+  xy: 1294, 1036
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+max-stars-upgrade
+  rotate: false
+  xy: 518, 266
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+max-stars-upgrade.png
+  rotate: false
+  xy: 1296, 1038
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+nap-upgrade
+  rotate: false
+  xy: 776, 524
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nap-upgrade.png
+  rotate: false
+  xy: 1550, 1292
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+nap-upgrade2
+  rotate: false
+  xy: 1034, 782
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+nap-upgrade2.png
+  rotate: false
+  xy: 1552, 1294
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+search-upgrade
+  rotate: false
+  xy: 1292, 1040
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+search-upgrade.png
+  rotate: false
+  xy: 1554, 1296
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+stray-upgrade
+  rotate: false
+  xy: 1550, 1298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+stray-upgrade.png
+  rotate: false
+  xy: 776, 260
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+treadmill-speed
+  rotate: false
+  xy: 518, 8
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+treadmill-speed.png
+  rotate: false
+  xy: 778, 262
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+work-upgrade
+  rotate: false
+  xy: 776, 266
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+work-upgrade.png
+  rotate: false
+  xy: 780, 264
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1

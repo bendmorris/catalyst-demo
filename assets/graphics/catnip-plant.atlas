@@ -1,0 +1,13 @@
+
+catnip-plant.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+catnip-plant
+  rotate: false
+  xy: 1, 1
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1

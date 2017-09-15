@@ -1,0 +1,20 @@
+
+cauldron.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cauldron_cauldron
+  rotate: false
+  xy: 1, 154
+  size: 394, 262
+  orig: 394, 262
+  offset: 0, 0
+  index: -1
+cauldron_stand
+  rotate: false
+  xy: 1, 1
+  size: 302, 151
+  orig: 302, 151
+  offset: 0, 0
+  index: -1
